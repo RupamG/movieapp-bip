@@ -61,10 +61,7 @@ function App() {
         {movies.length < 1 && (
           <div className="container text-center p-3">
             <h2 className="text-danger">!No movies found</h2>
-            <a
-              className="btn btn-md btn-secondary"
-              href="https://rupamg.github.io/movieapp-bip/"
-            >
+            <a className="btn btn-md btn-secondary" href="/movieapp-bip/">
               Go to home page
             </a>
           </div>

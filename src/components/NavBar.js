@@ -20,7 +20,7 @@ const NavBar = ({
     <>
       <Navbar bg="dark" expand="lg" variant="dark">
         <Container fluid>
-          <Navbar.Brand className="nav-brand" href="/">
+          <Navbar.Brand className="nav-brand" href="/movieapp-bip/">
             Movies App
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll"></Navbar.Toggle>
